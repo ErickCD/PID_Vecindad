@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The neighborhood</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnPlay">Play audio</string>
+    <string name="btnPause">Pause audio</string>
+    <string name="txtSelectionActor">Select a character:</string>
+    <string name="txtCoverImage">Cover image</string>
+    <string name="txtCharacterName">Name of character</string>
+    <string name="btnReturn">Return</string>
+    <string name="descriptionImgCharacter">Image of Character</string>
+    <string name="txtUserPlaceholder">User:</string>
+    <string name="txtPassPlaceholder">Password:</string>
+    <string name="imgLoginDescription">The complete neighborhood image</string>
+
+    <!-- personajes -->
+    <string name="chavo">Roberto Gómez Bolaños as El Chavo: is the protagonist, an eight-year-old boy who arrives in the neighborhood after escaping from an orphanage, once his mother abandoned him. Although he usually gets inside a barrel located almost at the entrance to the neighborhood, he lives in apartment 8. In none of the chapters is his real name mentioned. One of its characteristic features is the "garrotera", where your body is hunched and kept paralyzed, in situations of fear. It is removed by throwing cold water.</string>
+    <string name="chilindrina">María Antonieta de las Nieves as Chilindrina: she is the daughter of Don Ramón, a "naughty, freckled and intelligent" girl of 8 years, and friend of the Chavo and Quico. She is in love with the first, so she rivals Paty, Chavo's romantic interest in one of the episodes.</string>
+    <string name="ramon">Ramón Valdés as Don Ramón: lives in apartment 72 of the neighborhood, along with his daughter Chilindrina. He is unemployed and owes a debt of 14 months of rent with Mr. Barriga, so he tries to evade it as soon as he sees him arrive in the neighborhood.</string>
+    <string name="quico">Carlos Villagrán as Quico: is a nine-year-old boy whose real name is Federico. In one of the chapters it is mentioned that his father was a sailor, so he usually wears an outfit reminiscent of him. He lives in department 14 together with his mother Doña Florinda. He is generally presumptuous and envious at the same time, reason why usually it has conflicts with the other children of the neighborhood.</string>
+    <string name="florinda">Florinda Meza as Doña Florinda: she is the mother of Quico, a woman "arrogant, conceited and arrogant" who often belittles her neighbors for economic reasons, referring to them as "rabble." 19 She is in love with Professor Jirafales.</string>
+    <string name="profesor">Rubén Aguirre as Professor Jirafales: he is the teacher of the primary school attended by the children of the neighborhood. He has a romantic relationship with Doña Florinda. One of its most characteristic expressions is "Ta, ta, ta, taaaa, tá!" When getting angry. His long stature is often the subject of jokes and jokes between Chavo and his friends.</string>
+</resources>

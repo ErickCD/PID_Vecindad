@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La Vecindad</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnPlay">Reproducir audio</string>
+    <string name="btnPause">Pausar audio</string>
+    <string name="txtSelectionActor">Seleccione un personaje: </string>
+    <string name="txtCoverImage">Imagen_portada</string>
+    <string name="txtCharacterName">Nombre del personaje</string>
+    <string name="btnReturn">Regresar</string>
+    <string name="descriptionImgCharacter">Imagen del personaje</string>
+    <string name="txtUserPlaceholder">Usuario:</string>
+    <string name="txtPassPlaceholder">Contraseña:</string>
+    <string name="imgLoginDescription">La imagen completa de la vecindad</string>
+
+    <!-- personajes -->
+    <string name="chavo">Roberto Gómez Bolaños como El Chavo: es el protagonista, un niño de ocho años de edad que llega a la vecindad después de escaparse de un orfanato, una vez que su mamá lo abandonó. Si bien acostumbra meterse en el interior de un barril situado casi en la entrada de la vecindad, vive en el departamento 8. En ninguno de los capítulos se menciona su nombre verdadero. Uno de sus rasgos característicos es la «garrotera», en donde su cuerpo se encorva y mantiene paralizado, ante situaciones de miedo. Se le quita tirándole agua fría.</string>
+    <string name="chilindrina">María Antonieta de las Nieves como la Chilindrina: es la hija de Don Ramón, una niña «traviesa, pecosa e inteligente» de 8 años, y amiga del Chavo y de Quico. Está enamorada del primero, por lo que rivaliza con Paty, interés romántico del Chavo en uno de los episodios.</string>
+    <string name="ramon">Ramón Valdés como Don Ramón: vive en el apartamento 72 de la vecindad, junto con su hija la Chilindrina. Está desempleado y posee una deuda de 14 meses de renta con el señor Barriga, así que intenta evadirlo tan pronto lo ve llegar a la vecindad.</string>
+    <string name="quico">Carlos Villagrán como Quico: es un niño de nueve años de edad, cuyo nombre verdadero es Federico. En uno de los capítulos se menciona que su padre era marinero, por lo que él acostumbra vestir siempre una indumentaria reminiscente a él. Vive en el departamento 14 junto con su madre Doña Florinda. Es generalmente presumido y envidioso al mismo tiempo, por lo que suele tener conflictos con los demás niños de la vecindad.</string>
+    <string name="florinda">Florinda Meza como Doña Florinda: es la madre de Quico, una mujer «soberbia, engreída y altanera» que suele menospreciar a sus vecinos por cuestiones económicas, refiriéndose a éstos como «chusma».19 Está enamorada del profesor Jirafales.</string>
+    <string name="profesor">Rubén Aguirre como el Profesor Jirafales: es el maestro de la escuela primaria a la que asisten los niños de la vecindad. Tiene una relación romántica con Doña Florinda. Una de sus expresiones más características es «¡Ta, ta, ta, taaaa, tá!» al enfadarse. Su larga estatura suele ser motivo de chistes y burlas entre el Chavo y sus amigos.</string>
+</resources>
